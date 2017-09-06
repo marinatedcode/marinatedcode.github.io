@@ -70,22 +70,6 @@ img::selection {
 img::-moz-selection {
   color: white;
   background: transparent; }
-img {
-  vertical-align: middle;
-}
-.img-responsive,
-.thumbnail > img,
-.thumbnail a > img,
-.carousel-inner > .item > img,
-.carousel-inner > .item > a > img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-.img-rounded {
-  border-radius: 3px;
-}
 
 body {
   -webkit-tap-highlight-color: #0085A1; }
